@@ -1,4 +1,7 @@
 venv/
 poetry.lock
 .vscode
+.env
 tests/__pycache__
+.idea
+spotify/data/
