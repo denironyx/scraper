@@ -99,6 +99,6 @@ for artist in all_artist_data:
     print(artist["artist_name"])
 
 # Specify the Directory to save the file
-# Save the data to a JSON file
-with open('../data/nigerian_artists_data.json', 'w') as f:
+with open("nigerian_artists_data.json", 'w') as f:
     json.dump(all_artist_data, f, indent=4)
+print(f"Successfully load the data to .. {os.listdir()}")
