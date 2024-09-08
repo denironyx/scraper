@@ -37,7 +37,7 @@ Follow these steps to set up and run the scraper on your local machine.
 
 ```bash
 git clone https://github.com/denironyx/scraper.git
-cd scraper/spotify
+cd scraper/spotify/scripts
 ```
 
 ### Step 2: Install Dependencies
