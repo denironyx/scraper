@@ -19,7 +19,6 @@ This repository contains a Python script that scrapes data from the Spotify API 
 3. [Configuration](#configuration)
 4. [Example Output](#example-output)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Installation
 
